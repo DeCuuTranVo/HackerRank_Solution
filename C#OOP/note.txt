@@ -1,0 +1,6 @@
+How to install .NET on WSL
+    https://www.youtube.com/watch?v=q4i3t5wLXtE&ab_channel=ScottHanselman
+    https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-2004
+
+How to run C# file in VSCode, WSL
+    https://www.youtube.com/watch?v=RdFgAXUvhYY&ab_channel=GhostTogether

@@ -4,3 +4,22 @@ How to install .NET on WSL
 
 How to run C# file in VSCode, WSL
     https://www.youtube.com/watch?v=RdFgAXUvhYY&ab_channel=GhostTogether
+
+Run .cs file with mono-complete 
+    https://cloudviet.com.vn/cai-dat-mono-tren-ubuntu-20-04/
+    https://stackoverflow.com/questions/26293987/can-we-call-or-execute-c-sharp-source-code-from-bash-script
+    https://stackoverflow.com/questions/20392243/run-c-sharp-code-on-linux-terminal (How to install mono)
+
+
+Command to run separate .cs script:
+    mcs -out:Filename.exe Filename.cs
+    mono Filename.exe
+
+Command to run a dotnet project:
+    dotnet run 
+
+
+
+    mcs -out:ConstructorsAndDestructors.exe ConstructorsAndDestructors.cs
+    mono ConstructorsAndDestructors.exe
+    C#OOP/OOPExercises/ConstructorsAndDestructors.cs

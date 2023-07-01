@@ -7,8 +7,8 @@ using System;
 
 class Teacher: Person {
 
-    public Person(string name): base(name) {
-        
+    public Teacher(string name): base(name) {
+        ;
     }
 
     public void Explain() {

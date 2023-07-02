@@ -19,7 +19,7 @@ Command to run a dotnet project:
     dotnet run 
 
 
-
+Example:
     mcs -out:ConstructorsAndDestructors.exe ConstructorsAndDestructors.cs
     mono ConstructorsAndDestructors.exe
     C#OOP/OOPExercises/ConstructorsAndDestructors.cs
